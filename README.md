@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="https://images.app.goo.gl/vJewALMDt5VCWSTF6" width="100%" alt="API Giphy logo"/>
+<img src="https://yt3.ggpht.com/oVBUEojMuq2h31A3yaUM8Z2HwASnOAquQN5ldHgsDNdKZVyCZOvvW6F2EdVrmNQrn2ZwUIbN=s176-c-k-c0x00ffffff-no-rj-mo" width="100%" alt="API Giphy logo"/>
 
 </p>
 
