@@ -38,21 +38,13 @@
 
 <p align="center">
 
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-stats.vercel.app/api?username=KiZakiXD&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/Z47Developers"><img src="https://github-readme-stats.vercel.app/api?username=Z47Developers&theme=tokyonight&show_icons=true" /></a>
 
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-streak-stats.herokuapp.com?user=KiZakiXD&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiZakiXD&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/Z47Developers"><img src="https://github-readme-streak-stats.herokuapp.com?user=Z47Developers&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
 </p>
 
@@ -60,6 +52,14 @@
 
 <p align="center">
 
-  <a href="https://github.com/KiZakiXD"><img src="https://github-profile-trophy.vercel.app/?username=KiZakiXD&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/Z47Developers"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z47Developers&theme=tokyonight&layout=compact" /></a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/Z47Developers"><img src="https://github-profile-trophy.vercel.app/?username=Z47Developers&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 
 </p>
