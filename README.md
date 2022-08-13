@@ -18,11 +18,8 @@
 
 - 🤓 I'm a copy paste master.
 
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
+- 🔭 I'm Like A Sport.
 
-- 📝 Thanks To [`My Self`](https://github.com/KiZakiXd).
-
-- 🎩 Thanks To All Mastah.
 
 - Languages: &nbsp;
  
@@ -63,3 +60,10 @@
   <a href="https://github.com/Z47Developers"><img src="https://github-profile-trophy.vercel.app/?username=Z47Developers&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 
 </p>
+
+### Thanks To
+- God
+- my self
+- Parent
+- Family
+- All My Friends
